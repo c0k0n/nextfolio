@@ -1,16 +1,16 @@
 export const metaData = {
-  baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
-  ogImage: "/opengraph-image.png",
-  description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+  baseUrl: "https://ck-doss.vercel.app/",
+  title: "Chit Ko's Profile",
+  name: "Chit Ko Ko Nyein",
+  ogImage: "https://dynamic-og-image-generator.vercel.app/api/generate?title=Chit+Ko%27s+Portfolio&author=Chit+Ko+Ko+Nyein&websiteUrl=https%3A%2F%2Fck-pft.vercel.app%2F&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F88983407&theme=nightOwl",
+  description: "Chit Ko Ko Nyein's digital profile  .",
+  keywords: ["Data Science", "IT Service Management", "Portfolio", "Resume", "Chit Ko Ko Nyein"],
+  language: "en-US",
+  homeTitle: "Dossier",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  github: "https://github.com/c0k0n",
+  linkedin: "https://www.linkedin.com/in/cknyein",
+  email: "mailto:cknyein@outlook.com",
 };
